@@ -1,21 +1,57 @@
 #logo{
+    float: left;
     margin:10px 10px;
+    background-color: gray;
 }
 #item1{
-    float: right;
-    margin:10px 10px;
-    
+    float: left;
+    margin: 25px;
 }
 #item2{
-    float:right;
-    margin:10px 10px;
+    float: left;
+    margin: 25px;
 }
 #item3{
-    float:right;
-    margin:10px 10px;
+    float: left;
+    margin: 25px;
 }
 #item4{
-    float:right;
-    margin:10px 350px;
-    
+    float: right;
+    margin: 25px;
+    padding-right: 400px;
+}
+
+#heroimage{
+    padding:20px 80px;
+}
+#banner{
+    padding-left: 80px;
+}
+#banner1{
+    padding-right: 22px;
+}
+#banner2{
+    padding-right: 22px;
+}
+#sectionbanner{
+    padding-left: 80px;
+}
+#sectiontext{
+    float: right;
+    padding-right :300px;
+    margin-top: 50px;
+
+}
+#button {
+    margin-bottom: 40px;
+    position:absolute;
+    margin-top: 320px;
+    margin-left: 40px;
+    width:200px;
+    height:40px;
+  } 
+#footerimage{
+    padding-left:80px;
+    margin-top:20px;
+    widows: 40px;
 }
